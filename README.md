@@ -2,7 +2,7 @@
 
 Contributers - <br>
 Rishabh Verma - rkv8708 <br>
-Aryan Rai - ar5700 <br>
+Aryan Rai - ar8300 <br>
 
 <h3> Project Description </h3>
 Goal is to fine-tune an LLM using Low Rand Adaptation (LoRA) and compare its performance, efficiency, and accuracy with traditional fine-tuning along with exploring the effects of varying optimizers, learning rates, dataset and applying quantization (QLoRA). <br>
